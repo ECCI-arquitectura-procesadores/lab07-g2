@@ -2,7 +2,9 @@
 # lab07 - Procesador
 
 ## Integrantes
-
+1. [Andres Felipe Diaz Lancheros](https://github.com/felipelan5)
+2. [Maykol Estiben valero Hernandez](https://github.com/Maykolelmejor)
+3. [Jose Luis Ramos Sepulveda](https://github.com/JOSELRAMOSS)
 
 ## Documentación
 
