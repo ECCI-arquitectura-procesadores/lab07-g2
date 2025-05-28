@@ -16,9 +16,9 @@ Este informe documenta el análisis detallado de un Makefile utilizado para la
 automatización del flujo de trabajo en el desarrollo de un sistema embebido basado en la
 arquitectura PicoSoC con el procesador PicoRV32. El proyecto incluye el uso del software
 Quartus para plataformas FPGA como Cyclone IV y MAX10, y proporciona soporte para
-simulaciones mediante Verilator. Adicionalmente, se incluye el módulo UART de nombre
+simulaciones mediante Verilog. Adicionalmente, se incluye el módulo UART de nombre
 simpleuart, que permite la comunicación serie entre el sistema embebido y un terminal.
-Se integró un archivo de proyecto Quartus (QSF) proporcionado por la instructora, que sirvió
+Se integró un archivo de proyecto Quartus (QSF) de un trabajo que ya teniamos hecho y probado en Quartus, que sirvió
 de base para la implementación.
 
 ## Introducción
